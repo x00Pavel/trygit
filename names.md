@@ -2,7 +2,7 @@
 
 ### Add your name to the last available slot
 
-1.
+1. Lukáš Růžička
 2.
 3.
 4.
