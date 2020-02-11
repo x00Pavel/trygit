@@ -4,6 +4,6 @@
 
 1. pkratoch
 2. lruzicka
-3.
-4.
+3. lslavkov
+4. ssalatsk
 5. olkornii
